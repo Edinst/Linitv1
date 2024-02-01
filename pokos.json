@@ -1,0 +1,578 @@
+[
+  {
+    "name": "zangoose",
+    "image": "https://i.postimg.cc/YCKmD2RJ/received-6502799749812324.webp"
+  },
+  {
+    "name": "Diglett",
+    "image": "https://i.postimg.cc/7LkWtkQZ/received-829168035487690.webp"
+  },
+{
+    "name": "floetette",
+    "image": "https://i.postimg.cc/NMzhznHC/received-1240830833246391.webp"
+  },
+  {
+    "name": "abra",
+    "image": "https://i.postimg.cc/GpLWKD2p/received-3418322918430783.webp"
+  },
+  {
+    "name": "absol",
+    "image": "https://i.postimg.cc/zBwTfmJ3/received-932865967809800.webp"
+  },
+  {
+    "name": "accelgor",
+    "image": "https://i.postimg.cc/gJJQ3P0t/received-1918474705202625.webp"
+  },
+  {
+    "name": "aegislash-shield",
+    "image": "https://i.postimg.cc/xTT5CPcg/received-620101360210116.webp"
+  },
+  {
+    "name": "aerodactyl",
+    "image": "https://i.postimg.cc/wBHcCc8h/received-1005997707204617.webp"
+  },
+  {
+    "name": "aggron",
+    "image": "https://i.postimg.cc/nz947dvf/received-3505239733072922.webp"
+  },
+  {
+    "name": "aipom",
+    "image": "https://i.postimg.cc/wMT9ZrFS/received-789745449820182.webp"
+  },
+  {
+    "name": "alakazam",
+    "image": "https://i.postimg.cc/02nw6gLJ/received-251835347795809.webp"
+  },
+  {
+    "name": "alomomola",
+    "image": "https://i.postimg.cc/Ghz79kGR/received-806341690959541.webp"
+  },
+  {
+    "name": "altaria",
+    "image": "https://i.postimg.cc/fTx3vKB4/received-1451522935626553.webp"
+  },
+  {
+    "name": "amaura",
+    "image": "https://i.postimg.cc/K8ZvMRnZ/received-707764661160360.webp"
+  },
+  {
+    "name": "ambipom",
+    "image": "https://i.postimg.cc/tC9Hr87k/received-254430934067985.webp"
+  },
+  {
+    "name": "amoonguss",
+    "image": "https://i.postimg.cc/G3JWszzy/received-1401449180587677.webp"
+  },
+  {
+    "name": "ampharos",
+    "image": "https://i.postimg.cc/dtYm7w9v/received-619432113667119.webp"
+  },
+  {
+    "name": "anorith",
+    "image": "https://i.postimg.cc/dVvYSkmX/received-1507206876751850.webp"
+  },
+  {
+    "name": "araquanid",
+    "image": "https://i.postimg.cc/mDq0y2hp/received-768426865080076.webp"
+  },
+  {
+    "name": "arbok",
+    "image": "https://i.postimg.cc/tRWrMzc4/received-1000850137596424.webp"
+  },
+  {
+    "name": "arcanine",
+    "image": "https://i.postimg.cc/5tzv2sLH/received-624958939432668.webp"
+  },
+  {
+    "name": "archen",
+    "image": "https://i.postimg.cc/L687qtDm/received-192222637180378.webp"
+  },
+  {
+    "name": "archeops",
+    "image": "https://i.postimg.cc/sDtggscc/received-1050213265974675.webp"
+  },
+  {
+    "name": "ariados",
+    "image": "https://i.postimg.cc/NjDG7mtN/received-666451051709103.webp"
+  },
+  {
+    "name": "armaldo",
+    "image": "https://i.postimg.cc/MpFNSpm6/received-598785089116356.webp"
+  },
+  {
+    "name": "aromatisse",
+    "image": "https://i.postimg.cc/fTYC55Kc/received-1330471707897901.webp"
+  },
+  {
+    "name": "aron",
+    "image": "https://i.postimg.cc/g0cVNVZr/received-662974795732406.webp"
+  },
+  {
+    "name": "articuno",
+    "image": "https://i.postimg.cc/BnzSVs8D/received-553859226803273.webp"
+  },
+  {
+    "name": "audino",
+    "image": "https://i.postimg.cc/qMMpBgyy/received-137162366057422.webp"
+  },
+  {
+    "name": "aurorus",
+    "image": "https://i.postimg.cc/wMW8RcLJ/received-985299299477091.webp"
+  },
+  {
+    "name": "avalugg",
+    "image": "https://i.postimg.cc/T1NF32vJ/received-787224789876603.webp"
+  },
+  {
+    "name": "axew",
+    "image": "https://i.postimg.cc/kXrGqydh/received-984627729346694.webp"
+  },
+  {
+    "name": "azelf",
+    "image": "https://i.postimg.cc/Jz4VtrFy/received-3292016281095693.webp"
+  },
+  {
+    "name": "azumarill",
+    "image": "https://i.postimg.cc/QttqxQ8v/received-253350880827153.webp"
+  },
+  {
+    "name": "azurill",
+    "image": "https://i.postimg.cc/6QxfZZRH/received-2264290243781909.webp"
+  },
+  {
+    "name": "bagon",
+    "image": "https://i.postimg.cc/SRZRQ9K1/received-327854479575491.webp"
+  },
+  {
+    "name": "baltoy",
+    "image": "https://i.postimg.cc/rwDq40ct/received-826064725581636.webp"
+  },
+  {
+    "name": "banette",
+    "image": "https://i.postimg.cc/mZqG4VZf/received-599262149050348.webp"
+  },
+  {
+    "name": "barbaracle",
+    "image": "https://i.postimg.cc/MZ9GWptL/received-673305297998375.webp"
+  },
+  {
+    "name": "barboach",
+    "image": "https://i.postimg.cc/YS9z3658/received-753114953236681.webp"
+  },
+  	{
+	"name": "bastiodon",
+	"image": "https://i.postimg.cc/h4Jx33zk/received-1007170123750163.webp"
+},
+{
+	"name": "bayleef",
+	"image": "https://i.postimg.cc/fWKLCc5G/received-583951930445606.webp"
+},
+{
+	"name": "beartic",
+	"image": "https://i.postimg.cc/ZY7m0Vw5/received-316171580870161.webp"
+},
+{
+	"name": "beautifly",
+	"image": "https://i.postimg.cc/d1hbCKHQ/received-853454969533643.webp"
+},
+{
+	"name": "beedrill",
+	"image": "https://i.postimg.cc/FHPCVBJY/received-308301091562449.webp"
+},
+{
+	"name": "beheeyem",
+	"image": "https://i.postimg.cc/d1FCkqtr/received-801879931672442.webp"
+},
+{
+	"name": "beldum",
+	"image": "https://i.postimg.cc/SNHJYygR/received-604318368463057.webp"
+},
+{
+	"name": "bellossom",
+	"image": "https://i.postimg.cc/76bkNz6k/received-1310571439887885.webp"
+},
+{
+	"name": "bellsprout",
+	"image": "https://i.postimg.cc/CxYdsvVp/received-1473312456775434.webp"
+},
+{
+	"name": "bergmite",
+	"image": "https://i.postimg.cc/MZQT2k68/received-3595210137418675.webp"
+},
+{
+	"name": "bewear",
+	"image": "https://i.postimg.cc/Yq8BT8WH/received-3638935542984662.webp"
+},
+{
+	"name": "bibarel",
+	"image": "https://i.postimg.cc/9QzKK22d/received-987082765942823.webp"
+},
+{
+	"name": "bidoof",
+	"image": "https://i.postimg.cc/9QzKK22d/received-987082765942823.webp"
+},
+{
+	"name": "binacle",
+	"image": "https://i.postimg.cc/0jTcbzrx/received-833175714841455.webp"
+},
+{
+	"name": "bisharp",
+	"image": "https://i.postimg.cc/8CfdrpQz/received-305947768487490.webp"
+},
+{
+	"name": "blacephalon",
+	"image": "https://i.postimg.cc/Y93vvZ9S/received-776340917825752.webp"
+},
+{
+	"name": "blastoise",
+	"image": "https://i.postimg.cc/Qt0M8749/received-599484889029533.webp"
+},
+{
+	"name": "blaziken",
+	"image": "https://i.postimg.cc/fbMZVL0x/received-1332557347686556.webp"
+},
+{
+	"name": "blissey",
+	"image": "https://i.postimg.cc/mZYvHRBj/received-663003829085228.webp"
+},
+{
+	"name": "blitzle",
+	"image": "https://i.postimg.cc/MGYBBv3x/received-797955605149501.webp"
+},
+{
+	"name": "boldore",
+	"image": "https://i.postimg.cc/XJm9jtDy/received-3469587113328867.webp"
+},
+{
+	"name": "bonsly",
+	"image": "https://i.postimg.cc/6qBtvpSs/received-669780415023320.webp"
+},
+{
+	"name": "bouffalant",
+	"image": "https://i.postimg.cc/sgbzJc84/received-295970002953587.webp"
+},
+{
+	"name": "bounsweet",
+	"image": "https://i.postimg.cc/ZRcXXFfg/received-3411243922522721.webp"
+},
+{
+	"name": "braixen",
+	"image": "https://i.postimg.cc/xdV7CFhh/received-257803867048232.webp"
+},
+  {
+	"name": "arceus",
+	"image": "https://i.postimg.cc/zBBvRxwn/received-634273638800041.webp"
+},
+   {
+    "name": "zapdos",
+    "image": "https://i.postimg.cc/kXL62k9n/received-246525271534177.webp"
+  },
+{ 
+    "name": "moltres",
+    "image": "https://i.postimg.cc/027MJVND/received-673330004700007.webp" 
+},
+{ 
+  "name": "mewtwo",
+    "image": "https://i.postimg.cc/fLmdb2MB/received-745834010633600.webp"
+  },
+  { 
+    "name": "mew",
+    "image": "https://i.postimg.cc/QCGN8r1P/received-1389025838322068.webp"
+  },
+  { 
+    "name": "raikou",
+    "image": "https://i.postimg.cc/pd3RCtGT/received-280497554597647.webp"
+  },
+  {
+    "name": "entei",
+    "image": "https://i.postimg.cc/hvcFZ49S/received-1491932691636645.webp"
+  },
+  { 
+    "name": "suicune",
+    "image": "https://i.postimg.cc/50WDj9Kw/received-1642899162855068.webp"
+  },
+  { 
+    "name": "lugia",
+    "image": "https://i.postimg.cc/d0KwY4Sq/received-328023506317088.webp"
+  },
+  {
+    "name": "ho-oh",
+    "image": "https://i.postimg.cc/1t4VnPg3/received-682682270523099.webp"
+  },
+  { 
+    "name": "celebi",
+    "image": "https://i.postimg.cc/PqYDkJ9M/received-820834516214733.webp"
+  },
+  { 
+    "name": "regirock",
+    "image": "https://i.postimg.cc/J0nttz6v/received-259994636810299.webp"
+  },
+  { 
+    "name": "regice",
+    "image": "https://i.postimg.cc/XqmNJcyB/received-3235905206553376.webp"
+  },
+  { 
+    "name": "registeel",
+    "image": "https://i.postimg.cc/nzLnGw4Q/received-240782478860751.webp"
+  },
+  {
+    "name": "rayquaza",
+    "image": "https://i.postimg.cc/pVwn0pcf/received-1708579562940563.webp"
+  },
+    {
+    "name": "latios",
+    "image": "https://i.postimg.cc/g0bjhqyb/received-112626841923925.webp"
+  },
+  {
+    "name": "latias",
+    "image": "https://i.postimg.cc/76hYSBRh/received-108909458952492.webp"
+  },
+  {
+    "name": "kyogre",
+    "image": "https://i.postimg.cc/tRLWCP1W/received-2729983160494329.webp"
+  },
+  {
+    "name": "groudon",
+    "image": "https://i.postimg.cc/RVBhDT6s/received-2226815470846760.webp"
+  },
+  {
+  	"name": "jirachi",
+  	"image": "https://i.postimg.cc/7Zmd4CRc/received-1288480935367925.webp"
+  },
+  {
+  	"name": "deoxys",
+  	"image": "https://i.postimg.cc/DwSz1GZk/received-799049331964134.webp"
+  },
+  {
+  	"name": "uxie",
+  	"image": "https://i.postimg.cc/xCdjCQW0/received-1489993945148493.webp"
+  },
+  {
+  	"name": "mesprit",
+  	"image": "https://i.postimg.cc/rs4zX2Fn/received-3676634519328051.webp"
+  },
+  {
+  	"name": "dialga",
+  	"image": "https://i.postimg.cc/wTzqyhKf/received-635248528370287.webp"
+  },
+  {
+  	"name": "palkia",
+  	"image": "https://i.postimg.cc/VLzwLmM2/received-820310566160974.webp"
+  },
+  {
+  	"name": "giratina",
+  	"image": "https://i.postimg.cc/s2Cct3j8/received-806358454371023.webp"
+  },
+  {
+  	"name": "heatran",
+  	"image": "https://i.postimg.cc/yYS0B2bz/received-1285618565647882.webp"
+  },
+  {
+  	"name": "cresselia",
+  	"image": "https://i.postimg.cc/mZPmzX5m/received-1241719926490381.webp"
+  },
+  {
+  	"name": "darkrai",
+  	"image": "https://i.postimg.cc/02pdDLd0/received-824842452643766.webp"
+  },
+  {
+  	"name": "manaphy",
+  	"image": "https://i.postimg.cc/1zg8cF11/received-1760890777665415.webp"
+  },
+  {
+  	"name": "phione",
+  	"image": "https://i.postimg.cc/L8tC4JbR/received-978984956745381.webp"
+  },
+  {
+  	"name": "shaymin",
+  	"image": "https://i.postimg.cc/PJvygJwg/received-2314087088764239.webp"
+  },
+  {
+  	"name": "victini",
+  	"image": "https://i.postimg.cc/851Q4VGq/received-1001532614374191.webp"
+  },
+  {
+  	"name": "cobalion",
+  	"image": "https://i.postimg.cc/qRNRxCQC/received-1048253579888804.webp"
+  },
+  {
+  	"name": "terrakion",
+  	"image": "https://i.postimg.cc/Pf8JLYPg/received-830220304990705.webp"
+  },
+  {
+  	"name": "virizion",
+  	"image": "https://i.postimg.cc/5t9WqVbD/received-1020700438934659.webp"
+  },
+  {
+  	"name": "tornadus",
+  	"image": "https://i.postimg.cc/FRgct32Y/received-283507784324055.webp"
+  },
+     {
+    "name": "bastiodon",
+    "image": "https://i.postimg.cc/h4Jx33zk/received-1007170123750163.webp"
+     },
+  {
+    "name": "bayleef",
+    "image": "https://i.postimg.cc/fWKLCc5G/received-583951930445606.webp"
+  },
+  {
+    "name": "beartic",
+    "image": "https://i.postimg.cc/ZY7m0Vw5/received-316171580870161.webp"
+  },
+  {
+    "name": "beautifly",
+    "image": "https://i.postimg.cc/d1hbCKHQ/received-853454969533643.webp"
+  },
+  {
+    "name": "beedrill",
+    "image": "https://i.postimg.cc/FHPCVBJY/received-308301091562449.webp"
+  },
+  {
+    "name": "beheeyem",
+    "image": "https://i.postimg.cc/d1FCkqtr/received-801879931672442.webp"
+  },
+  {
+    "name": "beldum",
+    "image": "https://i.postimg.cc/SNHJYygR/received-604318368463057.webp"
+  },
+  {
+    "name": "bellossom",
+    "image": "https://i.postimg.cc/76bkNz6k/received-1310571439887885.webp"
+  },
+  {
+    "name": "bellsprout",
+    "image": "https://i.postimg.cc/CxYdsvVp/received-1473312456775434.webp"
+  },
+  {
+    "name": "bergmite",
+    "image": "https://i.postimg.cc/MZQT2k68/received-3595210137418675.webp"
+  },
+  {
+    "name": "bewear",
+    "image": "https://i.postimg.cc/Yq8BT8WH/received-3638935542984662.webp"
+  },
+  {
+    "name": "bibarel",
+    "image": "https://i.postimg.cc/9QzKK22d/received-987082765942823.webp"
+  },
+  {
+    "name": "bidoof",
+    "image": "https://i.postimg.cc/9QzKK22d/received-987082765942823.webp"
+  },
+  {
+    "name": "binacle",
+    "image": "https://i.postimg.cc/0jTcbzrx/received-833175714841455.webp"
+  },
+  {
+    "name": "bisharp",
+    "image": "https://i.postimg.cc/8CfdrpQz/received-305947768487490.webp"
+  },
+  {
+    "name": "blacephalon",
+    "image": "https://i.postimg.cc/Y93vvZ9S/received-776340917825752.webp"
+  },
+  {
+    "name": "blastoise",
+    "image": "https://i.postimg.cc/Qt0M8749/received-599484889029533.webp"
+  },
+  {
+    "name": "blaziken",
+    "image": "https://i.postimg.cc/fbMZVL0x/received-1332557347686556.webp"
+  },
+  {
+    "name": "blissey",
+    "image": "https://i.postimg.cc/mZYvHRBj/received-663003829085228.webp"
+  },
+  {
+    "name": "blitzle",
+    "image": "https://i.postimg.cc/MGYBBv3x/received-797955605149501.webp"
+  },
+  {
+    "name": "boldore",
+    "image": "https://i.postimg.cc/XJm9jtDy/received-3469587113328867.webp"
+  },
+  {
+    "name": "bonsly",
+    "image": "https://i.postimg.cc/6qBtvpSs/received-669780415023320.webp"
+  },
+  {
+    "name": "bouffalant",
+    "image": "https://i.postimg.cc/sgbzJc84/received-295970002953587.webp"
+  },
+  {
+    "name": "bounsweet",
+    "image": "https://i.postimg.cc/ZRcXXFfg/received-3411243922522721.webp"
+  },
+  {
+    "name": "braixen",
+    "image": "https://i.postimg.cc/xdV7CFhh/received-257803867048232.webp"
+  },
+  {
+    "name": "braviary",
+    "image": "https://i.postimg.cc/HxftHHHF/received-181014801533930.webp"
+  },
+  {
+    "name": "breloom",
+    "image": "https://i.postimg.cc/rpDWpbhT/received-209777905078860.webp"
+  },
+  {
+    "name": "brionne",
+    "image": "https://i.postimg.cc/x8ncLFPc/received-294414433266243.webp"
+  },
+  {
+    "name": "bronzong",
+    "image": "https://i.postimg.cc/cCk06Dkq/received-3620679994834225.webp"
+  },
+  {
+    "name": "bronzor",
+    "image": "https://i.postimg.cc/cJWy1y1g/received-1635023530327595.webp"
+  },
+  {
+    "name": "bruxish",
+    "image": "https://i.postimg.cc/Px6BMCWY/received-1497870120980822.webp"
+  },
+  {
+    "name": "budew",
+    "image": "https://i.postimg.cc/TwH4DZxc/received-1708983689552008.webp"
+  },
+  {
+    "name": "buizel",
+    "image": "https://i.postimg.cc/2SzMgd0h/received-286934264062021.webp"
+  },
+  {
+    "name": "bulbasaur",
+    "image": "https://i.postimg.cc/DZsxSmC7/received-673477501303489.webp"
+  },
+  {
+    "name": "buneary",
+    "image": "https://i.postimg.cc/vZBXW0Pq/received-668986348466053.webp"
+  },
+  {
+    "name": "bunnelby",
+    "image": "https://i.postimg.cc/mkmCksGb/received-308964474842429.webp"
+  },
+  {
+    "name": "butterfree",
+    "image": "https://i.postimg.cc/FR9YLBp1/received-992801031986764.webp"
+  },
+  {
+    "name": "buzzwole",
+    "image": "https://i.postimg.cc/NFnFZfcr/received-300341925826450.webp"
+  },
+  {
+    "name": "cacnea",
+    "image": "https://i.postimg.cc/XJznYHDR/received-673062228177457.webp"
+  },
+  {
+    "name": "cacturne",
+    "image": "https://i.postimg.cc/FHNzqqtp/received-950641189566402.webp"
+  },
+  {
+    "name": "camerupt",
+    "image": "https://i.postimg.cc/vm1sSLmX/received-840395314494133.webp"
+  }
+
+
+
+]
+  

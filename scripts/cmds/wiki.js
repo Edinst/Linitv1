@@ -1,0 +1,144 @@
+const _0x1e182c = _0x58f8;
+function _0x1612() {
+    const _0x58a4c1 = [
+        'edia.',
+        'ation\x20from',
+        '\x20API',
+        '.php?actio',
+        'Sorry,\x20I\x20c',
+        'exports',
+        'utility',
+        '\x20using\x20its',
+        'ia\x20about\x20\x22',
+        '\x22:\x0a\x0a',
+        'axios',
+        'on\x20Wikiped',
+        '\x22\x20on\x20Wikip',
+        'pic\x20using\x20',
+        'dia\x20API\x20an',
+        'erty',
+        't\x20I\x20found\x20',
+        'fullurl',
+        'acts&exint',
+        '138QKLfSC',
+        'JVB',
+        'wiki',
+        'e\x20content.',
+        '26543850sTqFRr',
+        'values',
+        'Get\x20inform',
+        'on\x20on\x20a\x20to',
+        'split',
+        '126343WUyVXp',
+        '\x0a\x0aRead\x20mor',
+        '&prop=extr',
+        'ouldn\x27t\x20fi',
+        '1202481bjeFiO',
+        'https://en',
+        'reply',
+        'rmat=',
+        '.wikipedia',
+        'error',
+        'ormation\x20o',
+        '1.0',
+        'ic.',
+        'e:\x20',
+        'json',
+        'd\x20return\x20a',
+        'get',
+        'ro&explain',
+        'pages',
+        'missing',
+        'n\x20\x22',
+        'text&title',
+        'nd\x20any\x20inf',
+        'yYOfJ',
+        '\x20Wikipedia',
+        'Here\x27s\x20wha',
+        'Search\x20for',
+        'n\x20that\x20top',
+        '592psXxPn',
+        'ybjqu',
+        'hasOwnProp',
+        '\x20informati',
+        'UIsGm',
+        '2261270VJBPUe',
+        '216MkFoMn',
+        '.org/w/api',
+        '\x20summary\x20o',
+        'join',
+        'extract',
+        'n=query&fo',
+        'query',
+        'the\x20Wikipe',
+        'r\x20full\x20pag',
+        '793592uFZrqu',
+        '52825epEYVB',
+        '36188juDOPD'
+    ];
+    _0x1612 = function () {
+        return _0x58a4c1;
+    };
+    return _0x1612();
+}
+(function (_0x2c74b3, _0x2fe398) {
+    const _0x2f0b8a = _0x58f8, _0x5bfe2c = _0x2c74b3();
+    while (!![]) {
+        try {
+            const _0x56bde4 = -parseInt(_0x2f0b8a(0x167)) / (0x3e3 + 0x1c02 + -0xff2 * 0x2) + parseInt(_0x2f0b8a(0x15d)) / (-0x7 * -0x1af + 0x24c3 + 0x6 * -0x817) + -parseInt(_0x2f0b8a(0x133)) / (-0x413 + -0x2153 + 0x2569) * (parseInt(_0x2f0b8a(0x169)) / (0x2057 + -0x10ca + -0xf89)) + parseInt(_0x2f0b8a(0x168)) / (0x24a1 + 0x1 * -0x142c + 0x2 * -0x838) * (-parseInt(_0x2f0b8a(0x15e)) / (-0x1 * 0x23b7 + 0x1c57 + -0x766 * -0x1)) + -parseInt(_0x2f0b8a(0x13c)) / (-0x6d * -0x57 + -0xb * 0x1d3 + 0x1 * -0x10f3) * (parseInt(_0x2f0b8a(0x158)) / (-0x5 * -0x2a7 + 0x43 * -0x7a + 0x1 * 0x12b3)) + -parseInt(_0x2f0b8a(0x140)) / (0x53b + 0x188d + -0x1dbf) + parseInt(_0x2f0b8a(0x137)) / (-0x1733 * 0x1 + 0xe6 + -0x12d * -0x13);
+            if (_0x56bde4 === _0x2fe398)
+                break;
+            else
+                _0x5bfe2c['push'](_0x5bfe2c['shift']());
+        } catch (_0x348ed5) {
+            _0x5bfe2c['push'](_0x5bfe2c['shift']());
+        }
+    }
+}(_0x1612, 0x1 * 0x1a2b1 + -0xd2f4b + -0x1 * -0x169f55));
+const axios = require(_0x1e182c(0x12a));
+function _0x58f8(_0x10fbaf, _0x50501a) {
+    const _0x2f3606 = _0x1612();
+    return _0x58f8 = function (_0x497eac, _0x253f40) {
+        _0x497eac = _0x497eac - (0x222a + -0x1 * -0xce3 + -0x5 * 0x92f);
+        let _0x4a5551 = _0x2f3606[_0x497eac];
+        return _0x4a5551;
+    }, _0x58f8(_0x10fbaf, _0x50501a);
+}
+module[_0x1e182c(0x125)] = {
+    'config': {
+        'name': _0x1e182c(0x135),
+        'author': _0x1e182c(0x134),
+        'version': _0x1e182c(0x147),
+        'shortDescription': _0x1e182c(0x139) + _0x1e182c(0x16b) + _0x1e182c(0x154) + _0x1e182c(0x127) + _0x1e182c(0x122),
+        'longDescription': _0x1e182c(0x156) + _0x1e182c(0x15b) + _0x1e182c(0x13a) + _0x1e182c(0x12d) + _0x1e182c(0x165) + _0x1e182c(0x12e) + _0x1e182c(0x14b) + _0x1e182c(0x160) + _0x1e182c(0x166) + _0x1e182c(0x136),
+        'category': _0x1e182c(0x126),
+        'guide': {
+            'vi': '',
+            'en': ''
+        }
+    },
+    'onStart': async function ({
+        args: _0xca26b3,
+        message: _0x5790b5,
+        getLang: _0x29125c
+    }) {
+        const _0x2524a3 = _0x1e182c, _0x6d4097 = {
+                'ybjqu': _0x2524a3(0x14a),
+                'UIsGm': _0x2524a3(0x14f),
+                'yYOfJ': _0x2524a3(0x124) + _0x2524a3(0x13f) + _0x2524a3(0x152) + _0x2524a3(0x146) + _0x2524a3(0x157) + _0x2524a3(0x148)
+            };
+        try {
+            const _0x326bee = _0xca26b3[_0x2524a3(0x161)]('\x20'), _0x45c91f = _0x6d4097[_0x2524a3(0x159)], _0x16d2e5 = _0x2524a3(0x141) + _0x2524a3(0x144) + _0x2524a3(0x15f) + _0x2524a3(0x123) + _0x2524a3(0x163) + _0x2524a3(0x143) + _0x45c91f + (_0x2524a3(0x13e) + _0x2524a3(0x132) + _0x2524a3(0x14d) + _0x2524a3(0x151) + 's=') + _0x326bee, {data: _0x25087d} = await axios[_0x2524a3(0x14c)](_0x16d2e5), _0x3cf57e = Object[_0x2524a3(0x138)](_0x25087d[_0x2524a3(0x164)][_0x2524a3(0x14e)])[-0x2103 + -0x1 * -0x1cc1 + -0x442 * -0x1];
+            if (!_0x3cf57e[_0x2524a3(0x15a) + _0x2524a3(0x12f)](_0x6d4097[_0x2524a3(0x15c)])) {
+                const _0x9ea46c = _0x3cf57e[_0x2524a3(0x162)][_0x2524a3(0x13b)]('\x0a')[-0xbcd + -0xbf3 * 0x2 + 0x23b3 * 0x1], _0x5d13fe = _0x3cf57e[_0x2524a3(0x162)];
+                return _0x5790b5[_0x2524a3(0x142)]({
+                    'body': _0x2524a3(0x155) + _0x2524a3(0x130) + _0x2524a3(0x12b) + _0x2524a3(0x128) + _0x326bee + _0x2524a3(0x129) + _0x9ea46c + (_0x2524a3(0x13d) + _0x2524a3(0x149)) + _0x3cf57e[_0x2524a3(0x131)],
+                    'attachment': null
+                });
+            } else
+                return _0x5790b5[_0x2524a3(0x142)](_0x2524a3(0x124) + _0x2524a3(0x13f) + _0x2524a3(0x152) + _0x2524a3(0x146) + _0x2524a3(0x150) + _0x326bee + (_0x2524a3(0x12c) + _0x2524a3(0x16a)));
+        } catch (_0x2b91ab) {
+            return console[_0x2524a3(0x145)](_0x2b91ab), _0x5790b5[_0x2524a3(0x142)](_0x6d4097[_0x2524a3(0x153)]);
+        }
+    }
+};

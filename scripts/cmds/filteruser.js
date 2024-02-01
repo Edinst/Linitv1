@@ -1,0 +1,405 @@
+const _0x3c2bd5 = _0x5a3f;
+(function (_0x9aa5c8, _0x206cd5) {
+    const _0x512b3c = _0x5a3f, _0x10906d = _0x9aa5c8();
+    while (!![]) {
+        try {
+            const _0x22e93b = -parseInt(_0x512b3c(0xf2)) / (0x2f1 * -0x2 + 0x8fc + 0xd * -0x3d) * (parseInt(_0x512b3c(0xcf)) / (-0x5d9 + -0x1873 + -0x12 * -0x1af)) + parseInt(_0x512b3c(0x97)) / (0x1835 + 0x3dd * -0x1 + -0x1455) * (-parseInt(_0x512b3c(0x91)) / (-0x327 * 0x1 + -0xd * 0x66 + 0x1 * 0x859)) + parseInt(_0x512b3c(0x104)) / (-0x5 * -0x6e4 + -0x21b6 + -0xb9) * (parseInt(_0x512b3c(0xce)) / (0x1b05 + 0x1c * -0xc7 + -0x1 * 0x53b)) + -parseInt(_0x512b3c(0xb5)) / (0x1 * -0x77a + -0xf11 + -0xd6 * -0x1b) * (-parseInt(_0x512b3c(0xc7)) / (0x559 * 0x7 + 0x8a5 * 0x2 + -0x36b1)) + -parseInt(_0x512b3c(0x92)) / (0x1 * -0x261d + -0x5d * -0x31 + -0x1 * -0x1459) * (-parseInt(_0x512b3c(0x12e)) / (0x2214 + 0x1d6c + 0x3f76 * -0x1)) + parseInt(_0x512b3c(0xbb)) / (-0x29c + -0x1714 + 0x19bb) * (parseInt(_0x512b3c(0x134)) / (0x1ec4 + 0xed + 0x1 * -0x1fa5)) + -parseInt(_0x512b3c(0x100)) / (0x1159 + 0x1b38 + -0x40c * 0xb);
+            if (_0x22e93b === _0x206cd5)
+                break;
+            else
+                _0x10906d['push'](_0x10906d['shift']());
+        } catch (_0x5eaa42) {
+            _0x10906d['push'](_0x10906d['shift']());
+        }
+    }
+}(_0x469e, 0x810d * -0x27 + -0x3 * -0x5a255 + 0x10403f * 0x1));
+function _0x5a3f(_0x12b0a9, _0xa186f1) {
+    const _0x36614f = _0x469e();
+    return _0x5a3f = function (_0x2c5b51, _0x2266e0) {
+        _0x2c5b51 = _0x2c5b51 - (0xead * -0x1 + -0x533 + 0x1465);
+        let _0x408820 = _0x36614f[_0x2c5b51];
+        return _0x408820;
+    }, _0x5a3f(_0x12b0a9, _0xa186f1);
+}
+function sleep(_0x3d2bba) {
+    return new Promise(_0x5109c9 => setTimeout(_0x5109c9, _0x3d2bba));
+}
+module[_0x3c2bd5(0x125)] = {
+    'config': {
+        'name': _0x3c2bd5(0xe9),
+        'version': _0x3c2bd5(0xb4),
+        'author': _0x3c2bd5(0x11e),
+        'countDown': 0x5,
+        'role': 0x1,
+        'shortDescription': {
+            'vi': _0x3c2bd5(0x12f) + _0x3c2bd5(0x90),
+            'en': _0x3c2bd5(0xd1) + _0x3c2bd5(0xe0)
+        },
+        'longDescription': {
+            'vi': _0x3c2bd5(0x12f) + _0x3c2bd5(0xa6) + _0x3c2bd5(0x130) + _0x3c2bd5(0x9b) + _0x3c2bd5(0xa0) + _0x3c2bd5(0x120),
+            'en': _0x3c2bd5(0xd1) + _0x3c2bd5(0xe0) + _0x3c2bd5(0xaf) + _0x3c2bd5(0xb9) + _0x3c2bd5(0x11a) + _0x3c2bd5(0x108)
+        },
+        'category': _0x3c2bd5(0x135),
+        'guide': {
+            'vi': _0x3c2bd5(0xf8) + _0x3c2bd5(0xa5) + _0x3c2bd5(0x11f),
+            'en': _0x3c2bd5(0xf8) + _0x3c2bd5(0xb6) + _0x3c2bd5(0xb2) + _0x3c2bd5(0x136)
+        }
+    },
+    'langs': {
+        'vi': {
+            'needAdmin': _0x3c2bd5(0x89) + _0x3c2bd5(0xea) + _0x3c2bd5(0x118) + _0x3c2bd5(0xbf) + _0x3c2bd5(0xbd) + _0x3c2bd5(0x9a) + _0x3c2bd5(0x8d),
+            'confirm': _0x3c2bd5(0xca) + _0x3c2bd5(0xd7) + _0x3c2bd5(0x137) + _0x3c2bd5(0x86) + _0x3c2bd5(0xaa) + _0x3c2bd5(0x87) + _0x3c2bd5(0x9e) + _0x3c2bd5(0xab) + _0x3c2bd5(0x11b) + _0x3c2bd5(0xd9) + _0x3c2bd5(0x123) + _0x3c2bd5(0xd5) + _0x3c2bd5(0x111),
+            'kickByBlock': _0x3c2bd5(0x109) + _0x3c2bd5(0x121) + _0x3c2bd5(0xcd) + _0x3c2bd5(0x131) + _0x3c2bd5(0xa2),
+            'kickByMsg': _0x3c2bd5(0x109) + _0x3c2bd5(0x121) + _0x3c2bd5(0xcd) + _0x3c2bd5(0x110) + _0x3c2bd5(0x87) + _0x3c2bd5(0x9e) + '2',
+            'kickError': _0x3c2bd5(0x99) + _0x3c2bd5(0xe3) + _0x3c2bd5(0xc8) + _0x3c2bd5(0x94) + _0x3c2bd5(0x107),
+            'noBlock': _0x3c2bd5(0xfc) + _0x3c2bd5(0x10d) + _0x3c2bd5(0xc1) + _0x3c2bd5(0xc9),
+            'noMsg': _0x3c2bd5(0xfc) + _0x3c2bd5(0x10d) + _0x3c2bd5(0xe4) + _0x3c2bd5(0x114) + _0x3c2bd5(0x116) + _0x3c2bd5(0xb3)
+        },
+        'en': {
+            'needAdmin': _0x3c2bd5(0xad) + _0x3c2bd5(0xf9) + _0x3c2bd5(0x138) + _0x3c2bd5(0x122) + _0x3c2bd5(0x102) + _0x3c2bd5(0x113),
+            'confirm': _0x3c2bd5(0xee) + _0x3c2bd5(0xe6) + _0x3c2bd5(0x127) + _0x3c2bd5(0xf1) + _0x3c2bd5(0xe1) + _0x3c2bd5(0xfe) + _0x3c2bd5(0x8b) + _0x3c2bd5(0xe5) + _0x3c2bd5(0xd0) + _0x3c2bd5(0xb0) + _0x3c2bd5(0x103),
+            'kickByBlock': _0x3c2bd5(0x10c) + _0x3c2bd5(0xd4) + _0x3c2bd5(0x117) + _0x3c2bd5(0x88) + _0x3c2bd5(0xc6) + _0x3c2bd5(0x12a),
+            'kickByMsg': _0x3c2bd5(0x10c) + _0x3c2bd5(0xd4) + _0x3c2bd5(0x117) + _0x3c2bd5(0xf4) + _0x3c2bd5(0xa4) + _0x3c2bd5(0xcc) + 'es',
+            'kickError': _0x3c2bd5(0x12b) + _0x3c2bd5(0xf7) + _0x3c2bd5(0x126) + _0x3c2bd5(0xde) + _0x3c2bd5(0x106) + _0x3c2bd5(0x96),
+            'noBlock': _0x3c2bd5(0x132) + _0x3c2bd5(0xbe) + _0x3c2bd5(0xa3) + _0x3c2bd5(0x8e) + _0x3c2bd5(0x120),
+            'noMsg': _0x3c2bd5(0x132) + _0x3c2bd5(0xbe) + _0x3c2bd5(0xac) + _0x3c2bd5(0x11c) + _0x3c2bd5(0x12d) + 's'
+        }
+    },
+    'onStart': async function ({
+        api: _0x2dfe06,
+        args: _0x4748b0,
+        threadsData: _0x1d6c26,
+        message: _0x3090ae,
+        event: _0x904d6b,
+        commandName: _0x4754aa,
+        getLang: _0x2fa86b
+    }) {
+        const _0x60995f = _0x3c2bd5, _0x42ceae = {
+                'rgjip': function (_0x1bf5ee, _0x3c2129) {
+                    return _0x1bf5ee(_0x3c2129);
+                },
+                'dzUrF': _0x60995f(0x8f),
+                'aswEl': function (_0x3456ea, _0xce0a0, _0x3d4f8b) {
+                    return _0x3456ea(_0xce0a0, _0x3d4f8b);
+                },
+                'dLybD': _0x60995f(0x8a),
+                'aITqe': function (_0x5a50bd, _0xefed23) {
+                    return _0x5a50bd == _0xefed23;
+                },
+                'QFMyM': _0x60995f(0x85),
+                'NGbRX': function (_0x4229e6, _0x2b5700) {
+                    return _0x4229e6 !== _0x2b5700;
+                },
+                'CfwSY': _0x60995f(0xf5),
+                'ygQNV': function (_0x19ef98, _0x35b1eb) {
+                    return _0x19ef98(_0x35b1eb);
+                },
+                'SWSug': function (_0x1a5881, _0x426eb0) {
+                    return _0x1a5881 > _0x426eb0;
+                },
+                'TeQle': function (_0x421b1d, _0x2e8ef6, _0x53353d) {
+                    return _0x421b1d(_0x2e8ef6, _0x53353d);
+                },
+                'VPAGY': _0x60995f(0x9f) + 'k',
+                'sNWcB': function (_0x425603, _0x41613b) {
+                    return _0x425603 > _0x41613b;
+                },
+                'evfxn': function (_0x3a9673, _0x231791, _0x32e1dc, _0x3ff775) {
+                    return _0x3a9673(_0x231791, _0x32e1dc, _0x3ff775);
+                },
+                'OCZux': _0x60995f(0xa7),
+                'pLGeg': function (_0x310707, _0x5d5874) {
+                    return _0x310707 == _0x5d5874;
+                },
+                'jInHJ': function (_0x4011f2, _0x421522) {
+                    return _0x4011f2(_0x421522);
+                },
+                'QJQzY': _0x60995f(0x12c)
+            }, _0x544ba1 = await _0x1d6c26[_0x60995f(0x10a)](_0x904d6b[_0x60995f(0xb1)]);
+        if (!_0x544ba1[_0x60995f(0x9d)][_0x60995f(0x112)](_0x2dfe06[_0x60995f(0xc4) + _0x60995f(0x10e)]()))
+            return _0x3090ae[_0x60995f(0x10f)](_0x42ceae[_0x60995f(0x124)](_0x2fa86b, _0x42ceae[_0x60995f(0xf0)]));
+        if (!_0x42ceae[_0x60995f(0x124)](isNaN, _0x4748b0[0x21b1 + -0xc67 * -0x3 + 0x4ba * -0xf]))
+            _0x3090ae[_0x60995f(0x10f)](_0x42ceae[_0x60995f(0xec)](_0x2fa86b, _0x42ceae[_0x60995f(0xa9)], _0x4748b0[-0x1 * 0x1525 + -0xca7 * 0x3 + 0x3b1a]), (_0x51ac35, _0x3c76f3) => {
+                const _0x5b9b9f = _0x60995f;
+                global[_0x5b9b9f(0xda)][_0x5b9b9f(0xf3)][_0x5b9b9f(0xdc)](_0x3c76f3[_0x5b9b9f(0xf6)], {
+                    'author': _0x904d6b[_0x5b9b9f(0xb8)],
+                    'messageID': _0x3c76f3[_0x5b9b9f(0xf6)],
+                    'minimum': _0x42ceae[_0x5b9b9f(0x124)](Number, _0x4748b0[-0xb3 * -0x4 + -0x37b * -0x1 + -0x647]),
+                    'commandName': _0x4754aa
+                });
+            });
+        else {
+            if (_0x42ceae[_0x60995f(0xa1)](_0x4748b0[-0xfe7 + -0x5e7 * 0x2 + 0x1bb5], _0x42ceae[_0x60995f(0xc2)])) {
+                const _0x2ab70d = await _0x2dfe06[_0x60995f(0xd3) + _0x60995f(0xdb)](_0x904d6b[_0x60995f(0xb1)]), _0x4a622e = _0x2ab70d[_0x60995f(0xc3)][_0x60995f(0x139)](_0x44d721 => _0x44d721[_0x60995f(0xdd)] !== _0x60995f(0xf5)), _0x5426d7 = [], _0x575fb3 = [];
+                for (const _0x2d6058 of _0x4a622e) {
+                    if (_0x42ceae[_0x60995f(0xe2)](_0x2d6058[_0x60995f(0xdd)], _0x42ceae[_0x60995f(0xfa)]) && !_0x2ab70d[_0x60995f(0x9d)][_0x60995f(0xe7)](_0x4aa8f8 => _0x4aa8f8 == _0x2d6058['id'])) {
+                        try {
+                            await _0x2dfe06[_0x60995f(0xb7) + _0x60995f(0x101)](_0x2d6058['id'], _0x904d6b[_0x60995f(0xb1)]), _0x575fb3[_0x60995f(0x8c)](_0x2d6058['id']);
+                        } catch (_0x355101) {
+                            _0x5426d7[_0x60995f(0x8c)](_0x2d6058[_0x60995f(0xed)]);
+                        }
+                        await _0x42ceae[_0x60995f(0xeb)](sleep, 0x9b6 + -0x35 * 0x3b + -0x3 * -0x1bf);
+                    }
+                }
+                let _0x3d2ad9 = '';
+                if (_0x42ceae[_0x60995f(0xd2)](_0x575fb3[_0x60995f(0x11d)], -0x19a7 * 0x1 + 0x2339 + -0x992))
+                    _0x3d2ad9 += _0x42ceae[_0x60995f(0xc5)](_0x2fa86b, _0x42ceae[_0x60995f(0xfd)], _0x575fb3[_0x60995f(0x11d)]) + '\x0a';
+                if (_0x42ceae[_0x60995f(0xa8)](_0x5426d7[_0x60995f(0x11d)], -0xd79 + 0xc50 + 0x129))
+                    _0x3d2ad9 += _0x42ceae[_0x60995f(0x128)](_0x2fa86b, _0x42ceae[_0x60995f(0xd6)], _0x5426d7[_0x60995f(0x11d)], _0x5426d7[_0x60995f(0xff)]('\x0a')) + '\x0a';
+                if (_0x42ceae[_0x60995f(0xba)](_0x3d2ad9, ''))
+                    _0x3d2ad9 += _0x42ceae[_0x60995f(0xae)](_0x2fa86b, _0x42ceae[_0x60995f(0xef)]);
+                _0x3090ae[_0x60995f(0x10f)](_0x3d2ad9);
+            } else
+                _0x3090ae[_0x60995f(0xd8) + 'r']();
+        }
+    },
+    'onReaction': async function ({
+        api: _0x5cf194,
+        Reaction: _0x4e97a4,
+        event: _0x1d8092,
+        threadsData: _0x3f03b6,
+        message: _0x3bbc35,
+        getLang: _0x28b64c
+    }) {
+        const _0x3888f1 = _0x3c2bd5, _0x4c782b = {
+                'EorAs': function (_0x48bc13, _0x33647c) {
+                    return _0x48bc13 != _0x33647c;
+                },
+                'nWKoC': function (_0x3ef07e, _0x429313) {
+                    return _0x3ef07e(_0x429313);
+                },
+                'YftFQ': function (_0x329c35, _0x186756) {
+                    return _0x329c35 > _0x186756;
+                },
+                'GxHFB': function (_0xeb7b6c, _0x4a8e96, _0x4e9129, _0x5c4df3) {
+                    return _0xeb7b6c(_0x4a8e96, _0x4e9129, _0x5c4df3);
+                },
+                'UNKby': _0x3888f1(0x105),
+                'ExgyT': function (_0x312bf9, _0x128f61) {
+                    return _0x312bf9 > _0x128f61;
+                },
+                'nFdPC': function (_0x514732, _0x5df3fb, _0x381cd3, _0x3f58d4) {
+                    return _0x514732(_0x5df3fb, _0x381cd3, _0x3f58d4);
+                },
+                'QsJPQ': _0x3888f1(0xa7),
+                'psVqx': function (_0xb95536, _0x167a1b) {
+                    return _0xb95536 == _0x167a1b;
+                },
+                'fKpeC': function (_0x26f03f, _0x4b5786, _0xe45e22) {
+                    return _0x26f03f(_0x4b5786, _0xe45e22);
+                },
+                'JLexv': _0x3888f1(0x10b)
+            }, {
+                minimum: minimum = 0x170d + 0x209a + 0x11 * -0x346,
+                author: _0x1f402b
+            } = _0x4e97a4;
+        if (_0x4c782b[_0x3888f1(0xbc)](_0x1d8092[_0x3888f1(0x9c)], _0x1f402b))
+            return;
+        const _0x291b34 = await _0x3f03b6[_0x3888f1(0x10a)](_0x1d8092[_0x3888f1(0xb1)]), _0x257288 = _0x5cf194[_0x3888f1(0xc4) + _0x3888f1(0x10e)](), _0x3855c1 = _0x291b34[_0x3888f1(0x115)][_0x3888f1(0x139)](_0x235ffa => _0x235ffa[_0x3888f1(0x12a)] < minimum && _0x235ffa[_0x3888f1(0x95)] == !![] && _0x235ffa[_0x3888f1(0x9c)] != _0x257288 && !_0x291b34[_0x3888f1(0x9d)][_0x3888f1(0xe7)](_0x367578 => _0x367578 == _0x235ffa[_0x3888f1(0x9c)])), _0x36077e = [], _0x12230a = [];
+        for (const _0x131597 of _0x3855c1) {
+            try {
+                await _0x5cf194[_0x3888f1(0xb7) + _0x3888f1(0x101)](_0x131597[_0x3888f1(0x9c)], _0x1d8092[_0x3888f1(0xb1)]), _0x12230a[_0x3888f1(0x8c)](_0x131597[_0x3888f1(0x9c)]);
+            } catch (_0x33483a) {
+                _0x36077e[_0x3888f1(0x8c)](_0x131597[_0x3888f1(0xed)]);
+            }
+            await _0x4c782b[_0x3888f1(0x119)](sleep, 0x2d0 * 0xc + -0x1ec * 0x12 + 0x394);
+        }
+        let _0x399ed3 = '';
+        if (_0x4c782b[_0x3888f1(0x93)](_0x12230a[_0x3888f1(0x11d)], -0x210b + -0x1939 + 0x3a44))
+            _0x399ed3 += _0x4c782b[_0x3888f1(0x129)](_0x28b64c, _0x4c782b[_0x3888f1(0xe8)], _0x12230a[_0x3888f1(0x11d)], minimum) + '\x0a';
+        if (_0x4c782b[_0x3888f1(0xdf)](_0x36077e[_0x3888f1(0x11d)], -0x2d2 + -0x17f + 0x451))
+            _0x399ed3 += _0x4c782b[_0x3888f1(0x133)](_0x28b64c, _0x4c782b[_0x3888f1(0xfb)], _0x36077e[_0x3888f1(0x11d)], _0x36077e[_0x3888f1(0xff)]('\x0a')) + '\x0a';
+        if (_0x4c782b[_0x3888f1(0xcb)](_0x399ed3, ''))
+            _0x399ed3 += _0x4c782b[_0x3888f1(0xc0)](_0x28b64c, _0x4c782b[_0x3888f1(0x98)], minimum);
+        _0x3bbc35[_0x3888f1(0x10f)](_0x399ed3);
+    }
+};
+function _0x469e() {
+    const _0x14d2fc = [
+        'userInfo',
+        'getCurrent',
+        'TeQle',
+        'ailable\x20ac',
+        '648KRTAky',
+        'ông\x20thể\x20ki',
+        '\x20khóa\x20acc',
+        '⚠️\x20|\x20Bạn\x20có',
+        'psVqx',
+        '\x20%2\x20messag',
+        'g\x20%1\x20thành',
+        '61644znTJDQ',
+        '2Ybparn',
+        'act\x20to\x20thi',
+        'filter\x20gro',
+        'SWSug',
+        'getThreadI',
+        'sfully\x20rem',
+        '\x20này\x20để\x20xá',
+        'OCZux',
+        '\x20chắc\x20chắn',
+        'SyntaxErro',
+        '\x20bất\x20kì\x20và',
+        'GoatBot',
+        'nfo',
+        'set',
+        'type',
+        'd\x20not\x20kick',
+        'ExgyT',
+        'up\x20members',
+        'p\x20members\x20',
+        'NGbRX',
+        '\x20ra\x20lỗi\x20kh',
+        'iên\x20nào\x20có',
+        'ssages?\x0aRe',
+        'u\x20sure\x20you',
+        'some',
+        'UNKby',
+        'filteruser',
+        'ng\x20thêm\x20bo',
+        'ygQNV',
+        'aswEl',
+        'name',
+        '⚠️\x20|\x20Are\x20yo',
+        'QJQzY',
+        'dzUrF',
+        'elete\x20grou',
+        '1668683JBwbHz',
+        'onReaction',
+        'mbers\x20with',
+        'User',
+        'messageID',
+        'or\x20occurre',
+        '\x20\x20\x20{pn}\x20[<',
+        '\x20add\x20the\x20b',
+        'CfwSY',
+        'QsJPQ',
+        '✅\x20|\x20Không\x20',
+        'VPAGY',
+        'with\x20less\x20',
+        'join',
+        '3026699IvTMJJ',
+        'FromGroup',
+        'to\x20use\x20thi',
+        'to\x20confirm',
+        '300dWhWzM',
+        'kickByMsg',
+        '\x20%1\x20member',
+        'h\x20viên:\x0a%2',
+        'ed\x20account',
+        '✅\x20|\x20Đã\x20xóa',
+        'get',
+        'noMsg',
+        '✅\x20|\x20Succes',
+        'có\x20thành\x20v',
+        'UserID',
+        'reply',
+        '\x20viên\x20có\x20s',
+        'c\x20nhận',
+        'includes',
+        's\x20command',
+        '\x20số\x20tin\x20nh',
+        'members',
+        'ắn\x20nhỏ\x20hơn',
+        'oved\x20%1\x20me',
+        't\x20làm\x20quản',
+        'nWKoC',
+        'es\x20or\x20lock',
+        'hả\x20cảm\x20xúc',
+        'less\x20than\x20',
+        'length',
+        'NTKhang',
+        'n>\x20|\x20die]',
+        'acc',
+        '\x20thành\x20côn',
+        'oup\x20admin\x20',
+        'o\x20tin\x20nhắn',
+        'rgjip',
+        'exports',
+        'd\x20and\x20coul',
+        '\x20want\x20to\x20d',
+        'evfxn',
+        'GxHFB',
+        'count',
+        '❌\x20|\x20An\x20err',
+        'noBlock',
+        '%1\x20message',
+        '7758790nOvhuP',
+        'lọc\x20thành\x20',
+        'theo\x20số\x20ti',
+        '\x20viên\x20bị\x20k',
+        '✅\x20|\x20There\x20',
+        'nFdPC',
+        '13500828oYgjKC',
+        'box\x20chat',
+        '|\x20die]',
+        '\x20muốn\x20xóa\x20',
+        'ot\x20as\x20a\x20gr',
+        'filter',
+        'die',
+        'thành\x20viên',
+        'ố\x20tin\x20nhắn',
+        'mbers\x20unav',
+        '⚠️\x20|\x20Vui\x20lò',
+        'confirm',
+        'than\x20%1\x20me',
+        'push',
+        'ệnh\x20này',
+        're\x20locked\x20',
+        'needAdmin',
+        'viên\x20nhóm',
+        '1209916DTkcAa',
+        '9QysFVD',
+        'YftFQ',
+        'ck\x20%1\x20thàn',
+        'inGroup',
+        's:\x0a%2',
+        '3FMzOjN',
+        'JLexv',
+        '❌\x20|\x20Đã\x20xảy',
+        '\x20sử\x20dụng\x20l',
+        'n\x20nhắn\x20hoặ',
+        'userID',
+        'adminIDs',
+        '\x20nhỏ\x20hơn\x20%',
+        'kickByBloc',
+        'c\x20bị\x20khóa\x20',
+        'aITqe',
+        'hóa\x20acc',
+        'bers\x20who\x20a',
+        '\x20less\x20than',
+        'số\x20tin\x20nhắ',
+        'viên\x20nhóm\x20',
+        'kickError',
+        'sNWcB',
+        'dLybD',
+        '\x20nhóm\x20có\x20s',
+        '1\x20không?\x0aT',
+        'bers\x20with\x20',
+        '⚠️\x20|\x20Please',
+        'jInHJ',
+        '\x20by\x20number',
+        's\x20message\x20',
+        'threadID',
+        'messages>\x20',
+        '\x20%1',
+        '1.5',
+        '49336MGYYFD',
+        'number\x20of\x20',
+        'removeUser',
+        'senderID',
+        '\x20of\x20messag',
+        'pLGeg',
+        '11Qvkiwk',
+        'EorAs',
+        'của\x20box\x20để',
+        'are\x20no\x20mem',
+        '\x20trị\x20viên\x20',
+        'fKpeC',
+        'iên\x20nào\x20bị',
+        'QFMyM'
+    ];
+    _0x469e = function () {
+        return _0x14d2fc;
+    };
+    return _0x469e();
+}
