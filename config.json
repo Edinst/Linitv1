@@ -18,9 +18,9 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "edimcpc36@gmail.com",
-    "password": "edinst0877",
-    "2FASecret": "922763",
+    "email": "ediide909@gmail.com",
+    "password": "zenithback10877",
+    "2FASecret": "",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
@@ -46,7 +46,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "lina bot project",
+  "nickNameBot": "zenith remake",
   "prefix": "/",
   "database": {
     "type": "sqlite",
@@ -75,7 +75,7 @@
     "port": 3001
   },
   "serverUptime": {
-    "enable": false,
+    "enable": true,
     "port": 3001,
     "socket": {
       "enable": true,
